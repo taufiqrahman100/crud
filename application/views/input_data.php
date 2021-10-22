@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>Input Data Mahasiswa</title>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url () ?>desain/css/style.css">
 </head>
 <body>
 	<center>
